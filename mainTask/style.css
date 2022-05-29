@@ -39,3 +39,11 @@ img{
     font-weight: bold;
     text-align: center;
 }
+
+#name{
+    color: blue;
+}
+
+#result{
+    color: green;
+}
